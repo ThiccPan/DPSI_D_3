@@ -1,3 +1,9 @@
 # DPSI_D_3
-Tugas akhir DPSI
-Halo Nama Saya Joy
+<h2>Anggota Kelompok :</h2>
+<ul>
+<li>1. Arief Setiawan</li>
+<li>2. Audry Tifara Acanta Qiindil</li> 
+<li>3. Fani Putri Pratama</li>
+<li>4. Ivan Hilmi Derian</li>
+<li>5. Joy Vianoktya Aristides</li>
+</ul>
